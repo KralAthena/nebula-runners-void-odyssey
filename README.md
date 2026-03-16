@@ -124,9 +124,8 @@ python main.py
 
 ## 👤 İletişim
 
-**[Adınız Soyadınız]**
-- [LinkedIn](https://linkedin.com/in/kullaniciadi)
-- [Portfolyo](https://portfolyo-siteniz.com)
+**Canberk Ünlü**
+- [LinkedIn](https://www.linkedin.com/in/canberkunlu)
 
 ---
 <p align="center">
